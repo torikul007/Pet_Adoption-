@@ -1,4 +1,4 @@
-// spinner
+// spinner.
 const spinner = () => {
     document.getElementById('details-container').classList.add('hidden')
     document.getElementById('spinner').classList.remove('hidden')
